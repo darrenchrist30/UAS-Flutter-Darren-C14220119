@@ -47,6 +47,11 @@
 
 ## 🚀 Cara Instalasi & Build
 
-1. Clone repository:
+1. User Login
+    ```bash
+    email : c14220119@john.petra.ac.id
+    pass : 123456
+
+2. Clone repository:
    ```bash
    git clone https://github.com/darrenchrist30/UAS-Flutter-Darren-C14220119
