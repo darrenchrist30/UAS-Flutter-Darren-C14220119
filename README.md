@@ -1,4 +1,5 @@
 # UAS Flutter - C14220119 (Daily Planner App)
+
 Aplikasi Flutter untuk tugas akhir mata kuliah AMBW.
 
 A Flutter application for managing daily tasks with user authentication and cloud database storage using Supabase.
